@@ -31,6 +31,7 @@ origins = [
     "http://localhost:5500",
     # Vercel frontend deployment
     "https://learning-crew-front-gq5rktzzp-pyhs-projects-a23019b7.vercel.app",
+    "https://learning-crew-front.vercel.app/",
     # Wildcard for any other origins (development)
     "*",
 ]
